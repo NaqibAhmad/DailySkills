@@ -122,4 +122,6 @@ Claude Code, Codex and Copilot reinstall the plugin only when the `version` in [
 
 ## Licences
 
+My own skills, `context-retention` and `best-coding-practices`, are MIT licensed: see [LICENSE](LICENSE), which each of those skill folders also carries.
+
 The third-party skills keep their original MIT licences: see [skills/writing-for-agents/LICENSE](skills/writing-for-agents/LICENSE) and the `license` field in [skills/karpathy-guidelines/SKILL.md](skills/karpathy-guidelines/SKILL.md). Credit for those skills goes to their authors.

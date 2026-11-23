@@ -1,6 +1,7 @@
 ---
 name: context-retention
 description: Project memory kept in context.md at the repo root. Use before the first code task of a session when no project context is loaded yet, when the user asks to create context.md or onboard a project, or when they ask to update or sync it.
+license: MIT
 ---
 
 # Context retention

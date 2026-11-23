@@ -1,6 +1,7 @@
 ---
 name: best-coding-practices
 description: Coding standards for Python/FastAPI backends and React/TypeScript frontends, built on one layered module layout (router → service → repository). Use when writing, reviewing or refactoring Python or React/TS code, laying out a new project or module, or auditing security or database access.
+license: MIT
 ---
 
 # Best coding practices
