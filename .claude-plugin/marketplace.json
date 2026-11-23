@@ -1,0 +1,17 @@
+{
+  "name": "coding-skills",
+  "owner": {
+    "name": "NaqibAhmad",
+    "url": "https://github.com/NaqibAhmad"
+  },
+  "description": "Skills I use during my coding sessions, packaged as a Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "coding-skills",
+      "source": "./",
+      "description": "Project memory, coding standards, LLM coding guardrails, and writing docs for agents.",
+      "category": "engineering",
+      "keywords": ["skills", "coding", "context", "best-practices", "agents"]
+    }
+  ]
+}

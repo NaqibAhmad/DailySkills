@@ -1,0 +1,13 @@
+{
+  "name": "coding-skills",
+  "version": "1.0.0",
+  "description": "Skills for day-to-day coding sessions: project memory, coding standards, LLM coding guardrails, and writing docs for agents.",
+  "license": "MIT",
+  "keywords": ["skills", "coding", "context", "best-practices", "agents"],
+  "skills": [
+    "./skills/context-retention",
+    "./skills/best-coding-practices",
+    "./skills/karpathy-guidelines",
+    "./skills/writing-for-agents"
+  ]
+}
