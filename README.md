@@ -20,7 +20,7 @@ Each skill is a folder with a `SKILL.md` in the open [Agent Skills](https://agen
 In Claude Code:
 
 ```
-/plugin marketplace add NaqibAhmad/myDailyUsedSkills
+/plugin marketplace add NaqibAhmad/DailySkills
 /plugin install coding-skills@coding-skills
 ```
 
@@ -50,7 +50,7 @@ cp -r skills/* .claude/skills/
 With the [`skills` CLI](https://github.com/vercel-labs/skills), which installs into Claude Code, Codex, Cursor and other agents:
 
 ```bash
-npx skills add NaqibAhmad/myDailyUsedSkills
+npx skills add NaqibAhmad/DailySkills
 ```
 
 Or copy the folders by hand into the tool's skills directory, for example `~/.codex/skills/` for Codex or `.agents/skills/` in a project. `writing-for-agents` also ships an `agents/openai.yaml` with display metadata for Codex.
